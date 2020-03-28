@@ -5,7 +5,6 @@ import { useNavigation } from '@react-navigation/native';
 
 import logoImg from '../../assets/logo.png';
 
-import style from './styles';
 import styles from './styles';
 
 export default function Incidents() {
